@@ -2,7 +2,6 @@ from web3 import Web3, HTTPProvider
 import requests
 import json
 import time
-import schedule
 from eth_account import Account
 from eth_account.messages import encode_defunct
 from requests_toolbelt import MultipartEncoder
@@ -238,12 +237,4 @@ def WalletLogin():
         print(f'Fail To Get Access Token! Exit...')
         exit()
 
-settime = "11:00"
-settimezone = "Asia/Jakarta"
-print(f"Waiting Excute... At {settime} {settimezone}")
-print("You Can Canceled With Press CTRL+C Or Force Close")
-schedule.every().day.at(settime, settimezone).do(WalletLogin)
-
-while True:
-    schedule.run_pending()
-    time.sleep(2)
+WalletLogin()
