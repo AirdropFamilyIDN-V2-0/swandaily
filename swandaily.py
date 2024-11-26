@@ -1,1 +1,249 @@
-gAAAAABnJhFj-5bJ-E5irpCWHK3pxWQLmBjk_Sm-GdT8o0MWJp0D2N3N3tcLpUC4mu6E1e2H6YInMTyd3ZfUf74OdQKufC1YJIT4n9mkEfd9RgHgaBC-KZMGXES2U7tYOcCNIK9E7ik2xRP3i-rjsbUj_N1WoSyRQi_lc0XxJ9MERnmN3GDmufTw9AOMQEMCvPOQfJ6IQpeHiYDBpIrQHhHgviAGLx-qGDgNATPKsftEiJmzdm-jwrVkNOd3i-9iFHovgYu0C1oXVlFFdFoTCSuKZHXgtQktgTYYrPt27RYdQ91sLcce9DI2gi2VOfKET5QfIdGQjPPIAH0zimUTPvDL92k87eKSmc6O30TavP3p8NOEltScDHMl0bcRoVRHuRQw9Df645zUbaT46Mq2OXZU2kjF2gorro78_o6l_ugDddzuzAzsX8ySmiSckC9_pM5UvlODustdCv83iHSqEbxBiEk8Css4s__xOOv0Elf-YYfwXQqMXhkmH-I1Ko_hzEs2JO3uUHaZjXBZNKFa64jTn35TntR9ufnDgXJFwA6EEuvwRpAXghcwvdlvRsTh4fCP5BNTpnBf6VmFunLYIr3QU1ImcF2h8gY0xGk__udyncED295BcK-5KmncEMOmS2vI60LOSZQ7VQBHmauZPbXLOE4l2W7L4krql_U1cH1niDD58120vVghZsTwAOQNztWiWChJYAGiokF7x4hLjEGFKWql1I2YsjG1dm3aC1610x67Aq7surj1F45i7yG3PsyxU_7J8NSt0R10rHDeKhyvUmIuX3w4GrKFQkDnHU08u2B1fxl_LmWPbVlKGkhXIjHa1WF1fqH2Is4Wpkftbo-aHMFEhgiB7DAlp3Rf7n3MrbCbRFYFsY3yVCQpkDKe4Amwz9-ZrrE_wdTkJA2uGMNjAkhXo2T8Xz9erVTECCRLcM97ruzUCO56PZ9EM8dIkBA5VNhpFGC2PxdgOqU3Q2NeoO2mIEcdoHZ-no0lwbdlUQTty_YHrEt9zfju8Scde_Nc5bAj3Yr6G1-a_0oTRoWWwon1K7dMaog5KjpmoKd2qP9YbzmFFNB23bH0rhHmpGAUJHAauauV3sWvYpE_6jDcFysnfD8-ap041VyuJl7XPyM8g55MoxYGSxpxwU7xmUmly-bIhuvIFwuHZOZKVulAG954OS8FGUZkMLoVSLh3V-n-emD1NefBET_2H1CKgJW0cfdkYjyhsoHNY-mJaRn5eDS53IaHZx_oJJ9TgDeM0ZhFa9vVtyT2nvIwJCQzvGQPGwwmrBO_Nl-C29M3XudzS2D42chQN3dBIirKkfWGL18dZ6y5DuLHH0vu2qYv-UJEXlOlS263qOWtgDEbZopp47Qb2CFeRmJDPMWS71YHcsw-bQn6DUl3Uy6FzqfI24XBTmXY5cMWO2KSoezESsaKT18yYSqFhBzett9lNOSKmWNjRIpP-j_YOHfUNvtXlbsY6IPo7bsA2-ZiwUZSBsEx_MLJC0Q77cY7Tu6DitCQjB6weGvqPpzbUnzK8V0gIojKizdduB66Z-zB2qr4PjWRtYWl_zIjGH_cBxfi83ms2qPrIVhvmo_Bd4VgApPMWQwyK8FomMvpzGRcv3aV-I2Eh_Vr2zrY8fHOpVtZv4jJwM0JmkDt3aQLewSpZysYimBVds6PjFTlMljBQrV4AcOHFxtjA_0tt9bdMIpzsJLU2bqJhtpzQB5IRDWjmBEJT8za0mcDiU7S6rvFtbt09-wZzuzyGS9j4OZ2B6yPY-oVaeEN21_oVzgaJNQDBJnjkUyI0arBUGFyA7NjuA0eU5Bkziv_NbgAwnPyrL6hd68vgNHD0DlAJhX8-aw3tiLjDMiMsndetigcT9GVnK4I3IclEWtDTqvO6Hw7Eb8DVR4WLOfdouck8lzoDt0CqW5HEmkSFiu3SV2g4nA-zxsFo8tpsfPAoHeYhFXMswwTxc_Sa4-MDK_KOzrz3GsuRvJgz92u-nT5E4vZmefTqpXl15dySaBhXuEDFac-Nl0nMhcklX1UwpMhmAyX-2IPjji87_clgkYuIgK7ifdTXl3qoQYAVjq8mtmtfZngAj0PzyKg7jU9oOqXcZMnkvp08omf0pIu8KLuyzSFpzbmikbTiB0QUnUdNdlqRgY40HiJtlM7-xLg3zfQFDKQa5xBxwubwQVO6GXSs7ZreuHCr1aR05Iqw5nSYhrcQFaoLDH08z4vyW0_GNzKrlV_RTBclgBxcnhEUV_Crm5PR_sD4UvtTsnEFQgWNOE7uFkIUmI_DXDtSswAFqCFnwrmH6eXNSp_vlwhQTVF5k6jBYQ4AsfVgUKaMOtsFmEvHSmd0HGphc_8XuFoI4i8vlkdGzU8O9lG4dQspmd1m1TjegF6YiVdNW9JPjgE_22fQrQIhLGywHTMjTJHxO8ld73tyYBjfBurWtNaKeNZSaPZUyuLVZUhV3QzwIXXsnxjQDXnQ3W05ppuYl56Z-txpI4hxdkHACq-egP5Wn8HpPls3a2I9ly07F1otViJlZ4ryb9D8NVuHmueL7SbqZo9WuowqmB95g7uD5fhfuJMjUCDwch7aTE_o_TE0iUIvvwq-KbWGOtxvQVa0pYS_nDx_tHzSieKenFaNLf1pHE7z8hczUhsu5_e0Y4MgyqoXN9xZ7mJE-ctLKqo4ffywgB7nKqqNqkWKXU5CojlFNyEqT02rNDLLhN3TwRePA0hyi1MvXxVPhwMBf4swSq-89typEsugFhsIrngtCO9lmMU3coyPhgjXv6EdJtjZMWkJJRmFpo-xxVh_CvEOaF7ujSEudXOra4klUtMcsmauhYXrgWoZ320w7_if5tEnn08dTgN7i9RPMFRwVq47lrQ0NhzK9N6L1_6HB89bZUXjhyhNH1mRNvwBXOchff55SxemLfN0ImjfENw94VGYlFA65XIiXVTDQh9vKt-7766pxgiBJJdrzBHoWaxnibB5LokyFhW7my1ET6Iy5t_kQsxnBWHwTO97tB-FGd5HsiEqbMBwugcw_FBI3zFZNAkWfrjiEWr6ltU4VOB99vDvVDQTG0CD4RjfX15TdrtACKxvnGjjqXQxwl8bGkVxNz4wht-cBXko6Mh2TMdklmHSw_a0gMykV9E05eSt3mL34TzK8xmjCbBN5O1i6lt7iW0RtSwub6HpzWGtV6ww6YURgqVbTaK3S8BrQmRDfSFU2dBhlg18T5TFdSLpaBbkkbE0is9S2g7zxYpEvOXFsHNWVpMDIckopWQbA6PQXmYCoS3huB0QlMmXQY38EbjIejjnx2CZCdyc5YVRi3ubQMCTOibcj1yAKIF1GZ7wHBp6qcdkEvuHyDSO7XPiL7DNpp-788071akF5PXrcNte1js8xcVktno9ZVCvQAMNiUDjSMNB_GFB51DYynLImNua2BgJuWMqvKIW4nBSfV1weCJUOGr5GdwMnIANNuMKAMhdWw49xfGhvAhreKkemvF9KekHldlj75YzU41H-h_pUL36e5dZh0nUPgvqFy9dBPO2kvi_cIl0WB_oa70bfeuKwaZp62JVczKNmNrz6TL9yMRZAStOSMDQJHrJoNFICaeeATJcHC0CsFD7FIffqfXGTH990_aeMjb7W5pw-0T6HagnNd1UiQ1NRPrKGQg6a7PX64fQv9woFE1QKXlR_HbH4xQdmKuNqQ8fwgWp-sr1yVDNj25oji_BsxUQJo6TeYwC6RxR616b9B_YxeqKoMwij5espRcz_BV826FqVGATP-zoDhBKqEWa3RsdQAyj1I4rY9XFuVkl1fX9SieoUyw1RNIDYYfE9An8tCRQccoc-tSxlXxtFwsl0DGggYVffkEY17Ok5WVM2quLroMOk8wtXC4d1LuP4-ZhozlkGoi5hFyJN5tlGKeNk6PvV_BkKNouuFJkolbSrV4Ua_cTAb-wacKxb924_KUvinEw_LmKngogmYKm0ZqlmHCBLQxx6xjLEVpTK8wlEkToxdWbn_BNooNzaEPFQhEGAZRK0-kxqPNx3iBfIrZxcozbk3F1J8gsWECIDp7fOMpP_cxqUrIkegr0PaOA7_MV1DxYWh8kg7_0cswJU1RXel0Vg2YZUk0szgnD_6qIl2ENLNC6S9KmyXdBtcFf_Fv6QjoU8K2hrjd63Ky5lIe0CWI9P6OIzgQrr0MIOFicKHDjwehoaoipRYU7ErAjhNJld-AgabyyUuwI1ubwDVk74Kjqn4K8UiI9-7mSfO7PDHPZhSdvXjhlC3shSIPcUkRRFr0KhmBsJdo6YBhFZf9gZ1tpK7-0zzAzR5D36e5J1KFZTtC7JA0XXbIjI9O0EHcUim3QK4wkvhfu0J57FkPDYrWXz68_fqdRSuZuWvLy1ySbL8mXrlRDj0xghQkG9btCpzL0VS0W2uApcytFgqp5nt-jo0m58oMvABFmZJ5G8WUxc-XpaPJlqQ_JwIl2yCY_AmA2P6ig8C1kIJ0daIwelSnSRdGG2mbNxX9ysvxlwYgjWbDMogy1PHNr-jdDfgJzK9VjmZjnvnU5Jopb6jhLQtqaFn7eXtH6OHUzN41116c-CD4OOrg3bVutbnFeMsQ8Ac8Wgf1ZXz9qrCDmaXs1DJEQxyMJn9iqK9ef6MiawepMQWmoq12hV7SgGcJi26LqBI0-lNhkfzC3RX0kT4JYdTPKzoiEXuPNN75LbPEJYCyra5e0V8z6DNgWs8DAs8vVgqvH7hDsm1p8-Ce6JfKoqMEde-RFTFvuhCsvpzh0KdBlEBIWPGGnDQoJEgTgKf7qt48wG1-66n_paiiAMxFaEihiWgCVbIZMYNoF62XnTvz-UZ8An-JGDCuruvlsduuGEyJNn4NkwCiHAp792P63xS7Ts1pp9S9R3ZzYaicDkFB_TEsJxEKASCWClDn9ERXfg6Xmne_B3WwWtryfQxqt2DzJjFznKfn0qf64Ebh1GnMF-QMIs7Mg-blRh0v3g3VDcO3PIbcNXFi7akQIR0WvdF7g4O13iBJI7ar1ikg6_bFM9nQx0ZpOM-rZEOmEr3oWU-ifeqRU8bugoVCRMm9Ed-lIB7ZF48egdlWAqmcXco9dCFIB7sZTE_gymZ_Zw-ys14S5y9A1SOE-HH0Wi1Mo_UIuosvf-ZnhYKP5QPlFYuFgtKy07hkAP-79Kb7FRB_u1-jTvjm7ZBy0-GpHy0RC5kPVZQwJQFh_8cVzl_0ry1sQwIieAvZoKtaIZfr9EbEdKzfEjzbXjKz9htHX7zKDuzgEKDzsb4tBFiS_3TonpMglf-MCFSut97q5sDnvJJBf_G2klz2TG8AmODhqC2V3LEsndb8HHu3L7EdAn6NCFYO1WZC1dVy_crT1sus-sEkwSbDh3u1HJNfmaMB4uDshcPifKiIiud3RGD5rjeqhdjiuZ9H-DjlacMQ5oukzsi8H3saiufsIIPEHJNN_LLxO-TeV6A4bygiVXBxQE2ws3I-TPXnMhaOBXFbNBW7durh6bThWsmwRTIiZelzqYf0CE32PwpYNwAMy04Ymed7In5BCVT0ThDXUo_QnsFGU-s4jwyd-An4_4yWJ_SR0uW1bWZjPkw5_jU_hPcmxjY3zxs4ENAA1iVSWuXEW7dv_B-wnAGrrniPYFoZ4CQ0iE8B4qBQlRVIpu4H6Q61WvlgtfJ3uzHDcW5MsFHiBFimqmlTnmpmz6jfUedg_DoqHprLz6i0Irh6FNvCXXT7idkj-fdsQWcTzVwkQt6N6CsYwl2DoRoJkr-F9v4swXf-7xEFIqt5OgRdqPXCSBPpSJRm6AG6nq6KDyyRvbLFYXkbeaahtacOnwz581Pdy85mAhCgTF-EAhU0MAcH-HDU_x-fe8GDI0FPqJP_XCoW1s6e3zXjd_Zmbpkh7cjghp_mxe65w-bUY2Ke-Oodcw1Lr78C-4gk-r_0GDcCmLPcHF1Uon_S8KyTO4Tnck-VPOekDSyqQdh0pAhG-3YuxLS-fYHRFgojdEi1HO_P3aLfG1dDwI9uDMUnioN8KflTzZood1nDSU_GhCW8J4qwafyrjgnoNgWsGSnylAY7RkzYWZOC-6xQc48b3JhYnrtc9Y7ZJiehkxeoGMXwFDOW-b2JRAbhkCEHzcN-4PdJ7vWZ7jV10JOxt-P_1nAZX3Ocr-btxI8OP9Z65q12wTS4R1nRtMHwxAWdGBIbhFXf0uLo7H3aXUanXVB8CLohUC5tbn6Adm0XQcM_7_kZ3_SK3jVmF_IsIMKbh-gjfgxd-DBzqFPCv2RKPH3iR4pKsdFEHplSCd6D1fDzLF-d22H7Uk-lDWGSs4OdIc827f8A2t-RPct_NZYd77gGn5m_8Tf9dWfapcdPdOeFodIY_53HQBGKwNMTnPg4kT8uEqAgmB9NPNKrOg0mNKnD7uECIAbMTgQ7GqmXAOsHqyW-IWMLNc3J3znJgikeJKGsN01b0QCg45D0a4hn1ZSZwFjef6vNfB5cqUc7dfbQ6PQpqwIpBncn3xsqEiZ1S0EQquq_CY4qPw9puicu4oYz-h-ztSJjTBlO0LnMdVBVW1nvDIUQuDSHZoJYLpFZRFodQ1qJBde0zu6J-khmrUZUBAcGDmJME8owO5p91UCRKO6wPFDxFiPYtQvLrMAf6UKfJs7nSkQ0Z8kM4qVVHHItfSsP2PlY0J32MOWY90zeiIhZmjzmZuR4OiY23uXT7NolpDag7tXsaCXgmIZ0qNft0b8gWLVEm1goR34gQ7s8sJ4jZFonP9fhAUR32JfN_QPo-1zqCTDTZ8VeetyRBhd2r2_P-6icnjk_cYln0Q3ySYr0gUQPuWW6iwMlC0mcnSACnquaoLl2loU9HwJ42v7TPrWnSZexPv15-uUO4ySzKJqO1mskAfxUm2kXPOJBx-eWgGR_CAB-MFyqdoG_wzXg6PBjMmo-4aAo_YYxgMJgCoaYzSh7NgP9so_C4Wkci5bqu6Pfe0DF-9XcVml9kqAb7EVbqppKjIsb3ZAwXP90zQizcEUYd7zul-ZzFa0A5G6FYN0E_Z2BDkaW9O5t0ATmBSbaJ5Wj6ghXCPMHv5hOmFA8ziweyoOK8wwomhzX5sT7LRVyqrANUAeat8HgTPGvnaCGJ6RgBtj-EnkRNsTylFmKS9AtZUj-ncjpfYd-2OlKXcHx53ybDbwxbQ0T9AGYpQvChbLkoaTDzJ8Zw9qB5NPLqJurCy8dOiLOOnl2KAQsdc9J_RTxyEazdU_RdKqsMk3Ouw-r7VOLhpeRrOZ5q23WO6K2B8SLpwGS-ukx4G1caVECEiR58jRCVcR6z8s_SWefPPS7VuFQQI5eozyUBUsoQIRqLYuE1J70VX3najfPAjqnjfbMQv6vAOy-6i_891AYmJILfRljLVHcBrYZydOejxG6QckwHFW-MAi6YHLLXnF7i7uoK6hs7r7yFXzIJaH-GvzM663g2w2TA3_EDQ19Bhwsxa8v8tFszelFAOdvF_XFpq0S4ITMuOqj8rArh1FBd6YyqNt5FaafWxuReNzA_TQQUezl0bZxDXnt53_sIBUgGzcYvezb4fAcz8ecjNZZOEU09AF6Yt6XSeQjZm5rEjNCRh17Ajr0BSJEApHaTkDHUtuV8fpXD7eK_murCaBwuAtqfBdkRyJlPrFYUMcvo4qs5TgAVk56xAxz5d-WFASy7pqMvIYLk4a73VoUNnjydpMa8oIhgc5-OWQyEjbVmOvdWVpUi9GNH59d9VAeWYSl-0Gy9smsRjVtK2Ax-0cJ8AsLJt2IakAv1QPbEgnME9jX2Q3OClGlsq8wcczSXN1ijsqNyH4UGmx8b1odVKuVo6IPyjfjdIkgB-Vu0shQc25LuS_iYP2KeL9bC42peYMTZQ2au2yW3TpBl_ATrHbn_PF3H2jgHBe2PlsQ2k2Qx89vJHkFK6x5Yr9toOUow5zTwq188z2fDryRHQ-Rt4Bd4wOMpNHJrWVN3DK4gv-Ba2TJ3qu_cscMWXpMrFDg32Jhqoze0aNsJNs_xR8yOPLHicNKIq3QbMndGxS8QSZIk5mecVb2jhlcvfG2nZ7irJ5R_Do6RkzDEfadPEoqUMlVIgdLmYGXDynwzuG9SsyWHoopBJVw55yVIwoovlw6THG4cW1_VLTZC0Kk_7tGvTh60aioG0uIMcBXSyRxkX9NofNMm9SQ7PxmcoGOrXtQoxSe3qXT8EdeBfzxpqPoFVY-k8ge7s5qBQniEt8X8xpImeo8tAiamu3O05XpeiRjyEdSHphJwcTcG_HEaoP-YlFqx4RhP2wjqs6JT8sToUrUUjlf7xv6nY8wjeiQsoEUGo2SYj24Cct7UE5bwdSDCp3o6GxlzZtCQkyl0DkhYtYkwu-G6XKFOL5x61jKmbwv7Aqe3wKPnAVMcs2df4hOYoA75DKZphrxBS59BG13FkDet05nkzMteLSJgUZRJebvJ_BCLi3kg3vhJgkWQsvDFbkKylmBr4znqbN3ZXv44ysty4uod5F5vSTCZVmJLgxxLIEBlA8MFwQz4z7JNG-6G3zNN22EM585IV9KAHGv3F9X2CXLv7sjnzKKZKv4piZAuT7YJRUmuhK2-EftFnlNjfVhUHVO9RkySJcPCG9IbGQb8VyGq2oFUmheRsaaf6oNHM-GjjeDuyz8A5yATk9aZn6kgDTAZIaRF_pEiR0Y_7rW4VrCc6wH4BEad7C8GDrmtGVT8nq_epsTx61VlqCMIKjticOuBa2NIr9jMxZr4y_345a6W7Bf_x14cumEvKu8ElpCeoXE9Z5weS5Re0g1_pNm9rO_cTHJsmOhryScBpjD55p9Pc309owNVms4nNIXXsA_tdijwjdAMwSaeScIW2lA0SeBmGWn1fBOZBJ_nXoWduAL5JI6R_AQhUqO9utaJhmLa7nfbitYGxKK3_5Xb2lgNQGXq6WOqeSavDBxj0YdCGJ_w8DyCU-KuozCnil1YJGPmOgQTClBAx6qXH8P9GOxzu0crlRc_1HHyb-rwzVdI7QwW3KESos9TlP04P3K7mE0szS_F4GRTD54sNi6-7UEsJbkFBc125d03cQadQ1MXGGelbwVyv4Yooa8Yh8NeQ0J18YlB1m0wF-dloCnQGCB5z2WsnRPOSkwnPDWZiquB_gLmuTEsiO5GUdaGFF_L2DPGmXBDDmSZ6UZwd67zSX32oSssDrstt-AOL3cAOLM6vmaI233lrYfPx2T2ELROixMlYC-gE0FRiPgsmrnrnyX_5XLrjsYkMWK-KTBiZPE8QbgPu2ZTYroF-Ll
+from web3 import Web3, HTTPProvider
+import requests
+import json
+import time
+import schedule
+from eth_account import Account
+from eth_account.messages import encode_defunct
+from requests_toolbelt import MultipartEncoder
+from datetime import datetime, timedelta
+
+web3 = Web3(Web3.HTTPProvider("https://rpc-swan-tp.nebulablock.com"))
+chainId = web3.eth.chain_id
+
+#connecting web3
+if  web3.is_connected() == True:
+    print("Web3 Connected...\n")
+else:
+    print("Error Connecting Please Try Again...")
+    exit()
+
+print(f'Daily Combo, Checkin & Mint Swan OnChain | @ylasgamers')
+print(f'Automatic Run At Time 11:00 Asia/Jakarta')    
+senderkey = input('Input Privatekey EVM Swanchain : ')
+target = web3.to_checksum_address('0xb5117C0CFfAA789186291483b9a5B7F69bB6575A')
+target2 = web3.to_checksum_address('0x558772Da528b7378823D934130969FaC07C5d655')
+
+def get_rounded_timestamp():
+    # Get current time
+    now = datetime.now()
+    
+    # Round the current minute to the nearest 10
+    rounded_minute = (now.minute // 10) * 10
+    if now.minute % 10 >= 10:  # If past the middle of the 10-minute window, round up
+        rounded_minute += 10
+
+    # Create a new datetime object with the rounded minute
+    rounded_time = now.replace(minute=rounded_minute, second=0, microsecond=0)
+    
+    # If rounding up to the next hour
+    if rounded_minute == 60:
+        rounded_time = rounded_time + timedelta(hours=1)
+        rounded_time = rounded_time.replace(minute=0)
+
+    # Get the Unix timestamp for the rounded time
+    timestamp = rounded_time.timestamp()
+
+    return rounded_time, timestamp
+
+def DailyMintWeb(token):
+    url = "https://campaign-api.swanchain.io/task/xp_completion_verification"
+    
+    m = MultipartEncoder(fields={'task_id': '2'})
+    headers = {
+        'Content-Type': m.content_type,
+        'Origin': 'https://mission.swanchain.io',
+        'Referer': 'https://mission.swanchain.io/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0'
+    }
+    
+    headers['Authorization'] = f'Bearer {token}'
+
+    response = requests.post(url, data=m, headers=headers)
+    print(f'Create xp task verification request process...')
+    result = response.json()
+    status = result.get('status')
+    msg = result.get('message')
+    if 200 == status:
+        print(f'{msg}')
+        print(f'Wait For 5 Second To Prevent Fail')
+        print(f'-------------------------------------------')
+        time.sleep(5)
+    else:
+        print(f'Verification request fail! Exit...')
+        exit()
+
+def DailyCheckWeb(sender, key, token, txhash1):
+    url = "https://campaign-api.swanchain.io/task/xp_completion_verification"
+    
+    m = MultipartEncoder(fields={'task_id': '1', 'proof': txhash1})
+    headers = {
+        'Content-Type': m.content_type,
+        'Origin': 'https://mission.swanchain.io',
+        'Referer': 'https://mission.swanchain.io/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0'
+    }
+    
+    headers['Authorization'] = f'Bearer {token}'
+
+    response = requests.post(url, data=m, headers=headers)
+    print(f'Create xp task verification request process...')
+    result = response.json()
+    status = result.get('status')
+    msg = result.get('message')
+    if 200 == status:
+        print(f'{msg}')
+        print(f'Wait For 5 Second To Prevent Fail')
+        print(f'-------------------------------------------')
+        time.sleep(5)
+        DailyMintWeb(token)
+    else:
+        print(f'Verification request fail! Exit...')
+        exit()
+
+def DailyMint(sender, key, token, txhash1):
+    try:
+        gasPrice = web3.to_wei(0.000001, 'gwei')
+        nonce = web3.eth.get_transaction_count(sender)
+
+        gasAmount = web3.eth.estimate_gas({
+            'chainId': chainId,
+            'from': sender,
+            'to': target2,
+            'data': '0x7b996fd6'
+        })
+
+        dailymint_tx = {
+            'chainId': chainId,
+            'from': sender,
+            'to': target2,
+            'gas': gasAmount,
+            'gasPrice': gasPrice,
+            'data': '0x7b996fd6',
+            'nonce': nonce
+        }
+        raw_tx = web3.eth.account.sign_transaction(dailymint_tx, key).rawTransaction
+        #sign & send the transaction
+        tx_hash = web3.eth.send_raw_transaction(raw_tx)
+        #wait for transaction
+        print(f'Wait For Transaction Until Mined...')
+        transaction_receipt = web3.eth.wait_for_transaction_receipt(tx_hash)
+        #get transaction hash
+        print(f'Daily Mint OnChain Success!')
+        print(f'TX-ID : {str(web3.to_hex(tx_hash))}')
+        print(f'Wait For 5 Second To Prevent Fail')
+        print(f'-------------------------------------------')
+        time.sleep(5)
+        DailyCheckWeb(sender, key, token, txhash1)
+    except Exception as e:
+        print(f"Error: {e}")
+        pass
+
+def DailyCheck(sender, key, token):
+    try:
+        gasPrice = web3.to_wei(0.000001, 'gwei')
+        nonce = web3.eth.get_transaction_count(sender)
+
+        gasAmount = web3.eth.estimate_gas({
+            'chainId': chainId,
+            'from': sender,
+            'to': target,
+            'data': '0x183ff085'
+        })
+
+        daily_tx = {
+            'chainId': chainId,
+            'from': sender,
+            'to': target,
+            'gas': gasAmount,
+            'gasPrice': gasPrice,
+            'data': '0x183ff085',
+            'nonce': nonce
+        }
+        raw_tx = web3.eth.account.sign_transaction(daily_tx, key).rawTransaction
+        #sign & send the transaction
+        tx_hash = web3.eth.send_raw_transaction(raw_tx)
+        #wait for transaction
+        print(f'Wait For Transaction Until Mined...')
+        transaction_receipt = web3.eth.wait_for_transaction_receipt(tx_hash)
+        #get transaction hash
+        print(f'Daily Checkin OnChain Success!')
+        print(f'TX-ID : {str(web3.to_hex(tx_hash))}')
+        print(f'Wait For 5 Second To Prevent Fail')
+        print(f'-------------------------------------------')
+        time.sleep(5)
+        DailyMint(sender, key, token, str(web3.to_hex(tx_hash)))
+    except Exception as e:
+        print(f"Error: {e}")
+        pass
+        
+def DailyCombo(sender, key, token):
+    combo1 = str(input('Input Combo Number 1 : '))
+    combo2 = str(input('Input Combo Number 2 : '))
+    combo3 = str(input('Input Combo Number 3 : '))
+    url = "https://campaign-api.swanchain.io/task/daily_combo"
+    
+    m = MultipartEncoder(fields={'number1': combo1, 'number2': combo2, 'number3': combo3})
+    headers = {
+        'Content-Type': m.content_type,
+        'Origin': 'https://mission.swanchain.io',
+        'Referer': 'https://mission.swanchain.io/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0'
+    }
+    
+    headers['Authorization'] = f'Bearer {token}'
+
+    response = requests.post(url, data=m, headers=headers)
+    print(f'Daily combo request process...')
+    result = response.json()
+    status = result.get('status')
+    msg = result.get('message')
+    if 200 == status:
+        print(f'{msg}')
+        print(f'Wait For 5 Second To Prevent Fail')
+        print(f'-------------------------------------------')
+        time.sleep(5)
+        DailyCheck(sender, key, token)
+    else:
+        print(f'Verification request fail! Exit...')
+        exit()
+
+def WalletLogin():
+    rounded_time, timestamp = get_rounded_timestamp()
+    sender = Account.from_key(senderkey)
+    msg = "Signing in to mission.swanchain.io at "+str(int(timestamp))
+    message = encode_defunct(text=msg)
+    signed_message =  web3.eth.account.sign_message(message, private_key=senderkey)
+    signature = web3.to_hex(signed_message['signature'])
+    url = "https://campaign-api.swanchain.io/wallet_login"
+    
+    headers = {
+        'Content-Type': 'application/json',
+        'Origin': 'https://mission.swanchain.io',
+        'Referer': 'https://mission.swanchain.io/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0'
+    }
+    
+    data = [web3.to_checksum_address(sender.address), signature]
+
+    json_data = json.dumps(data)
+
+    response = requests.post(url, headers=headers, data=json_data)
+    result = response.json()
+    token = result.get('data', {}).get('access_token')
+    status = result.get('status')
+    if 200 == status:
+        DailyCombo(sender.address, senderkey, token)
+    else:
+        print(f'Fail To Get Access Token! Exit...')
+        exit()
+
+settime = "11:00"
+settimezone = "Asia/Jakarta"
+print(f"Waiting Excute... At {settime} {settimezone}")
+print("You Can Canceled With Press CTRL+C Or Force Close")
+schedule.every().day.at(settime, settimezone).do(WalletLogin)
+
+while True:
+    schedule.run_pending()
+    time.sleep(2)
