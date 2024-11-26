@@ -12,7 +12,6 @@ python3 swandaily.py
 python -m pip install pip --upgrade
 pip install requests
 pip install web3==6.20.1
-pip install schedule
 pip install requests_toolbelt
 ```
 - For Termux Android [Download Here](https://f-droid.org/repo/com.termux_1020.apk) [F-Droid Version]
@@ -28,7 +27,6 @@ pkg install -y rust binutils
 CARGO_BUILD_TARGET="$(rustc -Vv | grep "host" | awk '{print $2}')" pip install maturin
 pip install requests
 pip install web3==6.20.1
-pip install schedule
 pip install requests_toolbelt
 ```
 - For Ubuntu 18.04 | 20.04 | 22.04 (VPS)
@@ -42,6 +40,5 @@ apt install python3-pip
 - Install Requirements
 pip install requests
 pip install web3==6.20.1
-pip install schedule
 pip install requests_toolbelt
 ```
