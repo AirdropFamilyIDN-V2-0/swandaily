@@ -1,8 +1,8 @@
 - How To Run ?
 ```
-python run.py swandaily.py
+python swandaily.py
 or
-python3 run.py swandaily.py
+python3 swandaily.py
 ```
 - Recomended Using Python 3.10
 - For Windows [Download Here](https://www.python.org/downloads/release/python-3100/) [Scrool Down]
@@ -14,7 +14,6 @@ pip install requests
 pip install web3==6.20.1
 pip install schedule
 pip install requests_toolbelt
-pip install cryptography
 ```
 - For Termux Android [Download Here](https://f-droid.org/repo/com.termux_1020.apk) [F-Droid Version]
 ```
@@ -31,7 +30,6 @@ pip install requests
 pip install web3==6.20.1
 pip install schedule
 pip install requests_toolbelt
-pip install cryptography
 ```
 - For Ubuntu 18.04 | 20.04 | 22.04 (VPS)
 ```
@@ -46,5 +44,4 @@ pip install requests
 pip install web3==6.20.1
 pip install schedule
 pip install requests_toolbelt
-pip install cryptography
 ```
