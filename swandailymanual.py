@@ -180,6 +180,12 @@ def DailyCombo(sender, key, token):
         print(f'-------------------------------------------')
         time.sleep(5)
         DailyCheck(sender, key, token)
+    elif f'Already sumbited combo today.' == msg:
+        print(f'{msg} Skipping...')
+        print(f'Wait For 5 Second To Prevent Fail')
+        print(f'-------------------------------------------')
+        time.sleep(5)
+        DailyCheck(sender, key, token)
     else:
         print(f'Verification request fail! Exit...')
         exit()
