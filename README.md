@@ -1,10 +1,13 @@
 - How To Run ?
 - Make Sure Already Install Requirements
 - If You Already Install Requirements Make Sure Using web3==6.20.1 Version
+- If Fail Try Using swandailymanual.py Version
 ```
 python swandaily.py
+python swandailymanual.py
 or
 python3 swandaily.py
+python3 swandailymanual.py
 ```
 - Recomended Using Python 3.10
 - For Windows [Download Here](https://www.python.org/downloads/release/python-3100/) [Scrool Down]
