@@ -18,7 +18,6 @@ else:
     exit()
 
 print(f'Daily Combo, Checkin & Mint Swan OnChain | @ylasgamers')
-print(f'Automatic Run At Time 11:00 Asia/Jakarta')    
 senderkey = input('Input Privatekey EVM Swanchain : ')
 target = web3.to_checksum_address('0xb5117C0CFfAA789186291483b9a5B7F69bB6575A')
 target2 = web3.to_checksum_address('0x558772Da528b7378823D934130969FaC07C5d655')
