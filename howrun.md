@@ -1,7 +1,9 @@
 - How To Run ?
 - Make Sure Already Install Requirements
 - If You Already Install Requirements Make Sure Using web3==6.20.1 Version
-- If Fail Try Using swandailymanual.py Version
+- Choose :
+- swandaily.py [ Without Input Auth Token ]
+- swandailymanual.py [ With Input Auth Token ]
 ```
 python swandaily.py
 python swandailymanual.py
