@@ -1,4 +1,6 @@
 - How To Run ?
+- Make Sure Already Install Requirements
+- If You Already Install Requirements Make Sure Using web3==6.20.1 Version
 ```
 python swandaily.py
 or
