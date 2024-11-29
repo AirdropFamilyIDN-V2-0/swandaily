@@ -7,7 +7,38 @@ from eth_account.messages import encode_defunct
 from requests_toolbelt import MultipartEncoder
 from datetime import datetime, timedelta
 
-web3 = Web3(Web3.HTTPProvider("https://rpc-swan-tp.nebulablock.com"))
+# List of RPC endpoints to try
+rpc_endpoints = [
+    "https://mainnet-rpc-01.swanchain.org",
+    "https://mainnet-rpc-02.swanchain.org",
+    "https://mainnet-rpc-03.swanchain.org",
+    "https://mainnet-rpc-04.swanchain.org",
+    "https://rpc-swan-tp.nebulablock.com"
+]
+
+def connect_web3():
+    for rpc_url in rpc_endpoints:
+        try:
+            print(f"Attempting to connect to RPC: {rpc_url}")
+            web3 = Web3(Web3.HTTPProvider(rpc_url))
+            
+            # Check if the connection is successful
+            if web3.is_connected():
+                print(f"Successfully connected to RPC: {rpc_url}\n")
+                return web3
+            else:
+                print(f"Failed to connect to RPC: {rpc_url}\n")
+        except (Exception, TimeoutError) as e:
+            print(f"Error connecting to RPC: {rpc_url}. Error: {e}\n")
+        
+        # Wait a bit before trying the next RPC
+        time.sleep(2)
+    
+    # If none of the RPCs connect, raise an error
+    print("Unable to connect to any RPC endpoint. Please check your network or RPC servers.\n")
+    exit()
+
+web3 = connect_web3()
 chainId = web3.eth.chain_id
 
 #connecting web3
